@@ -8,7 +8,7 @@ const orderItemSchema = new mongoose.Schema({
     quantity: { // Corrected from quantiy to quantity
         type: Number,
         required: true
-    }
+    }xcxc
 });
 
 const orderSchema = new mongoose.Schema({
